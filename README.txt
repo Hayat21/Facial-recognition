@@ -1,0 +1,3 @@
+-firstly you take image by videocapture class to prepare your dataset of traning.
+- the training is the seconde step to buil a performant systeme 
+- finally we can test our program in real time with webcam
